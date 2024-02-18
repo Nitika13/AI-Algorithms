@@ -1,1 +1,1 @@
-# Solved water jug problem using Breadth first search Algorithm
+# Solved water jug problem using Breadth-First-Search algorithm
